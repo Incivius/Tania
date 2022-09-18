@@ -9,7 +9,7 @@
    
   
      
-  * [Produto](#descrição-do-produto)
+  * [Produto Khali](#descrição-do-produto)
     * [Tema](#tema)
     * [Tecnologias Utilizadas](#tecnologias-utilizadas)
     * [Wireframe do Produto](#wireframe-do-produto)
@@ -70,38 +70,43 @@
 ### Fluxograma do Produto
 *Fluxograma disponível pelo [Figma](https://www.figma.com/file/Zbj4rKK3oPqUJxCyPc2eLo/Fluxograma-Khali?node-id=0%3A1)*
 
-### Backlog
+### Backlog do Produto
 
-| User Story | Prioridade | Sprint | 
+| USER STORY | PRIORIDADE | SPRINT | 
 |------------|------------|:------------:|
+| CRIAÇÃO DO SISTEMA DE CADASTRO DO USUÁRIO E AUTENTICAÇÃO |
 | Como Administrador da instituição, preciso cadastrar os Líderes dos Grupos para que façam login |Essencial| 1
 | Como Administrador da instituição, preciso cadastrar os Fake Clients para que façam login |Essencial| 1
 | Como Líder do Grupo, preciso criar Times para realizar o cadastro de usuários |Essencial| 1
 | Como Líder do Grupo, preciso cadastrar usuários dentro de um Time para que façam login |Essencial| 1
 | Como Líder do Grupo, preciso definir a função dos usuário dentro de um Time, que será utilizada como base para suas respectivas permissões |Essencial| 1
 | Como Líder do Grupo, preciso criar um cronograma de Sprints dentro do meu grupo, que será a base para os prazos das avaliações |Essencial| 1
+| Como Líder do Grupo, terei a funcionalidade de desativar usuários e times para possíveis desligamentos ou finalização do projeto |Desejável| 2
+| CRIAÇÃO DO SISTEMA DE AVALIAÇÃO |
 | Como Líder do Grupo, avaliarei os Líderes Técnicos do meu grupo conforme requisito funcional |Essencial| 2
 | Como Fake Client, avaliarei os POs do meu grupo conforme requisito funcional |Essencial| 2
 | Como PO, avaliarei o Líder Técnico, estudantes do meu time e a mim mesmo como requisito funcional |Essencial| 2
 | Como Líder Técnico, avaliarei o PO, estudantes do meu time e a mim mesmo como requisito funcional |Essencial| 2
 | Como estudante, avaliarei o PO, Líder Técnico, estudantes do meu time e a mim mesmo como requisito funcional |Essencial| 2
+| CRIAÇÃO DO SISTEMA DE DASHBOARDS |
 | Como Administrador da instituição, preciso ter acesso a um Dashboard para acompanhamento de desempenho dos grupos |Importante| 3
 | Como Líder do Grupo, preciso ter acesso ao Dashboard para acompanhamento de desempenho do meu grupo |Importante| 3
 | Como Fake Client, preciso ter acesso ao Dashboard para acompanhamento de desempenho do meu grupo |Importante| 3
-| Como PO, terei acesso ao meu Dashboard individual e os Dashboards do meu time, para acompanhamento de desempenho |Importante| 3
-| Como Líder Técnico, terei acesso ao meu Dashboard individual e aos Dashboards do meu time, para acompanhamento de desempenho |Importante| 3
-| Como estudante, terei acesso ao meu Dashboard individual e ao Dashboard geral do time, para acompanhar o meu desempenho |Importante| 3
-| Como Líder do Grupo, terei a funcionalidade de desativar usuários e times para possíveis desligamentos ou finalização do projeto |Desejável| 4
+| Como PO, terei acesso ao meu Dashboard individual e os Dashboards do meu time, para acompanhamento de desempenho |Importante| 4
+| Como Líder Técnico, terei acesso ao meu Dashboard individual e aos Dashboards do meu time, para acompanhamento de desempenho |Importante| 4
+| Como estudante, terei acesso ao meu Dashboard individual e ao Dashboard geral do time, para acompanhar o meu desempenho |Importante| 4
 
-### Backlog da Sprint 1
+
+### Backlog detalhado da Sprint 1
 #### *Criação do sistema de usuário*
 * Criação do usuario *Administrador*
-* Sistema de cadastramento de grupos e usuários por parte do *Administrador* 
+* Sistema de cadastramento de grupos e usuários (Líder do Grupo e Fake Client) por parte do *Administrador* 
 * Sistema de cadastramento e configuração de Sprints pelo *Líder do Grupo*
-* Sistema de cadastramento e configuração de Times pelo ]*Líder do Grupo*
+* Sistema de cadastramento e configuração de Times pelo *Líder do Grupo*
 * Sistema de cadastramento de usuários pelo *Líder do Grupo*
 * Criação da funcionalidade de Login
-* Retorno para os usuários das Sprint e usuários que ele deve avaliar
+* Retorno para os usuários das Sprints e usuários que ele deve avaliar
+
 
 
 
