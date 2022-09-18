@@ -1,7 +1,7 @@
 # API 1º Semestre - Tecnologia em Banco de Dados 2022
 ##
 ## Sumário
-  * [Projeto API](#descrição-do-projeto)
+  * [Projeto API](#projeto-API)
     * [Integrantes da Equipe Khali](#integrantes-da-equipe-khali) 
     * [Objetivo](#objetivo)
     * [Tríade da API](#tríade-da-api)
@@ -16,8 +16,8 @@
     * [Fluxograma do produto](#fluxograma-do-produto)
     * [Requisitos Funcionais](#requisitos-funcionais)
     * [Requisitos Não Funcionais](#requisitos-não-funcionais)
-    * [User Story](#user-stories)
-    * [Backlog da Sprint 1](#backlog-da-sprint-1)
+    * [Backlog do Produto](#backlog-do-produto)
+      * [Backlog da Sprint 1](#backlog-detalhado-da-sprint-1)
     
     
 ##
@@ -31,16 +31,16 @@
 * Tânia de Oliveira Cruz [GitHub](https://github.com/taniacruzz)
 
 ### Objetivo
-> * Atender à necessidade da instituição fictícia e desenvolver uma solução computacional que exercite a capacidade de pesquisa e autodidaxia dos integrantes dos grupos, no que tange:
-> * A aplicação de técnicas de programação para a construção de algoritmos
-> * O uso de uma ferramenta que possibilite um Ambiente de Desenvolvimento Integrado (IDE) para o desenvolvimento da solução computacional
-> * O aprendizado e aplicação de uma ou mais linguagens de programação para concepção do projeto
-> * O exercício do compromisso, responsabilidade e trabalho em equipe dos membros do Time
+* Atender à necessidade da instituição fictícia e desenvolver uma solução computacional que exercite a capacidade de pesquisa e autodidaxia dos integrantes dos grupos, no que tange:
+* A aplicação de técnicas de programação para a construção de algoritmos
+* O uso de uma ferramenta que possibilite um Ambiente de Desenvolvimento Integrado (IDE) para o desenvolvimento da solução computacional
+* O aprendizado e aplicação de uma ou mais linguagens de programação para concepção do projeto
+* O exercício do compromisso, responsabilidade e trabalho em equipe dos membros do Time
 
 ### Tríade da API
-> * Algoritmos - *Prof. Lucas Gonçalves Nadalete*
-> * Laboratório de Desenvolvimento em Banco de Dados - *Prof. Lucas Gonçalves Nadalete*
-> * Arquitetura e Organização de Computadores - *Prof. Fabiano Sabha Walczak*
+* Algoritmos - *Prof. Lucas Gonçalves Nadalete*
+* Laboratório de Desenvolvimento em Banco de Dados - *Prof. Lucas Gonçalves Nadalete*
+* Arquitetura e Organização de Computadores - *Prof. Fabiano Sabha Walczak*
 
 ### Prazos
 > - [x] 09/08 a 13/08 - *Dinamica Disruptiva*
@@ -57,7 +57,7 @@
 ## *Produto*
 
 ### Tema 
->  Desenvolvimento de uma solução computacional que viabilize a aplicação da técnica de **Avaliação 360°** e a análise dos dados obtidos pelos alunos e instrutores da instituição de ensino PBLTeX, especializada em cursos e práticas de ensino aplicando PBL (*Problem Based Learning*)
+* Desenvolvimento de uma solução computacional que viabilize a aplicação da técnica de **Avaliação 360°** e a análise dos dados obtidos pelos alunos e instrutores da instituição de ensino PBLTeX, especializada em cursos e práticas de ensino aplicando PBL (*Problem Based Learning*)
 
 ### Tecnologias Utilizadas
 * Linguagens: Python e HTML
@@ -65,10 +65,21 @@
 * Plataformas: Figma, Asana e Youtube
 
 ### Wireframe do Produto
-*Wireframe disponível pelo [Figma](https://www.figma.com/file/U1apWrrVuZHbtNIumUgUoo/Api?node-id=56%3A3)*
+* Wireframe disponível pelo [Figma](https://www.figma.com/file/U1apWrrVuZHbtNIumUgUoo/Api?node-id=56%3A3)*
 
 ### Fluxograma do Produto
-*Fluxograma disponível pelo [Figma](https://www.figma.com/file/Zbj4rKK3oPqUJxCyPc2eLo/Fluxograma-Khali?node-id=0%3A1)*
+* Fluxograma disponível pelo [Figma](https://www.figma.com/file/Zbj4rKK3oPqUJxCyPc2eLo/Fluxograma-Khali?node-id=0%3A1)*
+
+### Requisitos Funcionais
+* Possibilitar autoavaliação e avaliação dos demais integrantes do Time de forma individualizada;
+* Possibilitar que o Líder do Grupo avalie o Líder Técnico do Time e o *Fake Client* avalie o aluno PO do Time;
+* Prover um ou mais Dashboards de acompanhamento.
+
+### Requisitos Não Funcionais
+* Linguagem de programação Python;
+* Uso de base de dados simples, como Text, CSV e ZODB;
+* Uso de sistema de controle de versão de código (Git)
+* Documentações
 
 ### Backlog do Produto
 
