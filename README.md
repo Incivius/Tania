@@ -24,6 +24,7 @@
 ## *Projeto API*
 
 ### Integrantes da Equipe Khali
+* Danielle Tiemi Iwamoto [GitHub](https://github.com/daniiwamoto)
 * Jhonatan Oliveira Lopes [GitHub](https://github.com/JhonatanLop)
 * Marcos Vinicius Malaquias [GitHub](https://github.com/Incivius)
 * Naira Giulia Pereira Maximo dos Santos [GitHub](http://github.com/naira-maximo)
