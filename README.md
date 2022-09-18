@@ -119,6 +119,8 @@
 * Criação da funcionalidade de Login
 * Retorno para os usuários das Sprints e usuários que ele deve avaliar
 
+* *Fluxograma disponível pelo [Onedrive](https://fatecspgov-my.sharepoint.com/:b:/r/personal/marcos_santos232_fatec_sp_gov_br/Documents/Cadastramento%20de%20usuarios%20(2).pdf?csf=1&web=1&e=Dbc3a2)*
+
 
 
 
